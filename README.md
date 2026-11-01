@@ -23,6 +23,7 @@ These tasks were completed as part of my internship, focusing on applying machin
 
 ## Repository Structure
 
+```text
 Datheon_Data_Science_Machine_Learning_Internship/
 │
 ├── Task-1-Iris-Multiclass-Classification/
